@@ -8,8 +8,8 @@
     <ProjectGuid>{DE465F19-2D4E-4034-A23F-2D9335F3B505}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Schedule</RootNamespace>
-    <AssemblyName>Grid</AssemblyName>
+    <RootNamespace>Football</RootNamespace>
+    <AssemblyName>Football</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>

@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolutionary String", "Evolutionary String\Evolutionary String.csproj", "{9B7B0A9A-4DA4-4639-BB33-273C9A83E5B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal Triangle", "Pascal Triangle\Pascal Triangle.csproj", "{D42C2256-1890-44E9-835F-1161FE816040}"
@@ -17,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map Subsection", "Map Subse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{D61DFC2C-93E4-41E0-B483-BA6BBC9F35FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedule", "Grid\Schedule.csproj", "{DE465F19-2D4E-4034-A23F-2D9335F3B505}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Football", "Grid\Football.csproj", "{DE465F19-2D4E-4034-A23F-2D9335F3B505}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darts Checkouts", "Darts Checkouts\Darts Checkouts.csproj", "{21791D4F-3140-4D44-928D-2A79313A9615}"
 EndProject
